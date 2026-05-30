@@ -24,7 +24,7 @@
 
     /* ── Greetings ── */
     { tags: ['hi','hello','hey','namaste','good morning','good afternoon','good evening','start','help'],
-      answer: 'Hello! 👋 Welcome to <strong>RK Developers</strong> — Bengaluru's trusted real estate company since 2004.<br><br>How can I help you today?',
+      answer: 'Hello! 👋 Welcome to <strong>RK Developers</strong> — Bengaluru\'s trusted real estate company since 2004.<br><br>How can I help you today?',
       chips: ['Ongoing Projects','Completed Projects','Pricing','Book a Site Visit','Contact Us'] },
 
     /* ── About company ── */
@@ -39,12 +39,12 @@
 
     /* ── Metro Greens ── */
     { tags: ['metro greens','metro','farm','farm plot','farm land','chikkaballapur','beechgahanalli','beechaganahalli','ecological','200 acres','nature'],
-      answer: '🌿 <strong>Metro Greens</strong><br><strong>Location:</strong> Chikkaballapur, Beechgahanalli Village, North Bengaluru<br><strong>Total:</strong> 200 Acres | <strong>Phase 1:</strong> 11.5 Acres<br><strong>Price:</strong> ₹999/sq.ft<br><strong>Status:</strong> Ready to Register<br><br><strong>Plot Sizes:</strong><br>• 5.5 Guntas (~5,445 sq.ft) — Starter Estate<br>• 6.0–6.5 Guntas — Premium Estate ⭐ Most Popular<br>• 8.0–9.0 Guntas — Grand Estate<br>• 1 Acre+ — The Grand Estate<br><br><strong>Amenities (30+):</strong> Clubhouse, Swimming Pool, Spa, Jogging Track, Yoga Decks, Sports Courts, Children's Play Area, 24/7 Security, Drip Irrigation, Organic Gardens, Scenic Trails, Solar Lighting, High-Speed Wi-Fi & more.',
+      answer: '🌿 <strong>Metro Greens</strong><br><strong>Location:</strong> Chikkaballapur, Beechgahanalli Village, North Bengaluru<br><strong>Total:</strong> 200 Acres | <strong>Phase 1:</strong> 11.5 Acres<br><strong>Price:</strong> ₹999/sq.ft<br><strong>Status:</strong> Ready to Register<br><br><strong>Plot Sizes:</strong><br>• 5.5 Guntas (~5,445 sq.ft) — Starter Estate<br>• 6.0–6.5 Guntas — Premium Estate ⭐ Most Popular<br>• 8.0–9.0 Guntas — Grand Estate<br>• 1 Acre+ — The Grand Estate<br><br><strong>Amenities (30+):</strong> Clubhouse, Swimming Pool, Spa, Jogging Track, Yoga Decks, Sports Courts, Children\'s Play Area, 24/7 Security, Drip Irrigation, Organic Gardens, Scenic Trails, Solar Lighting, High-Speed Wi-Fi & more.',
       chips: ['Pricing','Book Visit','Contact Us'] },
 
     /* ── RK Avenue ── */
     { tags: ['rk avenue','avenue','gauribidanur','residential','plots','gated community','alkapura'],
-      answer: '🏡 <strong>RK Avenue</strong><br><strong>Location:</strong> Alkapura Village, Gauribidanur<br><strong>Layout:</strong> 2.5 Acres | <strong>Plots:</strong> 36 Exclusive<br><strong>Price:</strong> ₹1,899/sq.ft<br><strong>Status:</strong> Ready to Register & Construct<br><br><strong>Amenities:</strong> 30-ft wide roads, underground electricity & water, drainage, 24/7 security guards, CCTV, landscaped park, children's play area, street lighting.<br><br><strong>Nearby:</strong> Someshwara Railway Station (5 min), Gauribidanur–Doddaballapura Highway (SH9), Gauribidanur DC Office.',
+      answer: '🏡 <strong>RK Avenue</strong><br><strong>Location:</strong> Alkapura Village, Gauribidanur<br><strong>Layout:</strong> 2.5 Acres | <strong>Plots:</strong> 36 Exclusive<br><strong>Price:</strong> ₹1,899/sq.ft<br><strong>Status:</strong> Ready to Register & Construct<br><br><strong>Amenities:</strong> 30-ft wide roads, underground electricity & water, drainage, 24/7 security guards, CCTV, landscaped park, children\'s play area, street lighting.<br><br><strong>Nearby:</strong> Someshwara Railway Station (5 min), Gauribidanur–Doddaballapura Highway (SH9), Gauribidanur DC Office.',
       chips: ['Pricing','Book Visit','Contact Us'] },
 
     /* ── RK Revenue ── */
@@ -99,7 +99,7 @@
 
     /* ── Investment ── */
     { tags: ['invest','investment','returns','appreciation','profit','value','growth','roi','return','long term'],
-      answer: '📈 <strong>Why Invest with RK Developers?</strong><br><br>• High-appreciation corridors near Bangalore's growth zones<br>• Legally clear plots — safe, bankable investment<br>• <strong>RK Revenue:</strong> 8–10% rental ROI p.a., 40% capital appreciation expected over 5 years<br>• 20+ projects delivered — proven track record since 2004<br><br>Speak with our advisors for personalised investment guidance!',
+      answer: '📈 <strong>Why Invest with RK Developers?</strong><br><br>• High-appreciation corridors near Bangalore\'s growth zones<br>• Legally clear plots — safe, bankable investment<br>• <strong>RK Revenue:</strong> 8–10% rental ROI p.a., 40% capital appreciation expected over 5 years<br>• 20+ projects delivered — proven track record since 2004<br><br>Speak with our advisors for personalised investment guidance!',
       chips: ['Call Us','WhatsApp','Metro Greens','RK Revenue'] },
 
     /* ── Services ── */
@@ -109,7 +109,7 @@
 
     /* ── Thanks / bye ── */
     { tags: ['thanks','thank you','bye','goodbye','ok','okay','great','perfect','noted','got it','awesome'],
-      answer: 'Thank you for connecting with <strong>RK Developers</strong>! 😊<br><br>We're here 7 days a week at <strong>+91 9663108999</strong>. Looking forward to helping you find your perfect property!',
+      answer: 'Thank you for connecting with <strong>RK Developers</strong>! 😊<br><br>We\'re here 7 days a week at <strong>+91 9663108999</strong>. Looking forward to helping you find your perfect property!',
       chips: ['Book a Site Visit','Call Us','WhatsApp'] }
 
   ];

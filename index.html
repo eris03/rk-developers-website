@@ -1542,6 +1542,10 @@
       // First appearance after 1 minute
       setTimeout(showRKPopup, 60000);
       // Close on overlay background click
-
+      document.getElementById('rk-popup-overlay').addEventListener('click', function(e) {
+        if (e.target === this) this.style.display = 'none';
+      });
+    })();
+  </script>
 </body>
 </html>
