@@ -227,7 +227,6 @@
     '  width:100%!important;height:100%!important;',
     '  object-fit:cover!important;',
     '  border-radius:50%!important;',
-    '  mix-blend-mode:multiply;',
     '  pointer-events:none;',
     '  z-index:1;',
     '}',
